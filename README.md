@@ -11,3 +11,14 @@
     8. Miscellaneous
         1. Load Data from file
         2. Boolean Masking and Advanced Indexing
+    
+2. Matplotlib
+    1. Creating and Customizing Our First Plots
+    2. Bar Charts and Analyzing Data from CSVs
+    3. Pie Charts
+    4. Stack Plots
+    5. Filling Area on Line Plots
+    6. Histograms 
+    7. Scatter Plots
+    8. Plotting Time Series Data
+    9. Subplots
