@@ -22,3 +22,16 @@
     7. Scatter Plots
     8. Plotting Time Series Data
     9. Subplots
+
+3. Pandas
+    1. Installation
+    2. DataFrames
+    3. Indexes
+    4. Filtering
+    5. Updating Data
+    6. Add/Remove Rows, Coluumns
+    7. Sorting Data
+    8. Grouping Data or Performing aggregates
+    9. Cleaning Data
+    10. Datetime Timeseries
+    11. Export Data into external sources
